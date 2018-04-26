@@ -13,8 +13,8 @@ It’s a well-featured Pivot Grid that easily runs your business data in any web
 
 # Characteristics
 - JavaScript based client-side component
-- Loads 1MB of JSON or CSV datafile
-- Works on any devices (Windows, macOS, Linux, iOS or Android)
+- Loads 1MB of JSON or CSV data files
+- Works on all devices (Windows, macOS, Linux, iOS or Android)
 - Cross-browser 
 
 # Additional options 
@@ -22,7 +22,7 @@ It’s a well-featured Pivot Grid that easily runs your business data in any web
 - Conditional formatting
  -Handy Toolbar that gives the access to the all pivot functions
 - Saving and opening reports
-- 3d parting libraries integration 
+- Integration with 3rd party charting libraries
 
 
 Is it free? - YES. [Get your code](https://www.webdatarocks.com/get-webdatarocks/).
