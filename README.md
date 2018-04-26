@@ -9,7 +9,7 @@ It’s a well-featured Pivot Grid that easily runs your business data in any web
 - Fast in data visualization
 - Smart in data analysis with all pivot features (sorting, grouping, filtering) 
 - Flexible in customization 
-- Totally free in usage
+- Free in usage
 
 # Characteristics
 - JavaScript based client-side component
