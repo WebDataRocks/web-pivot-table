@@ -1,6 +1,8 @@
-# About WebDatarocks 
+# About WebDataRocks Free Pivot Table 
 JS Pivot Grid control for online data visualization & analysis.
 It’s a well-featured Pivot Grid that easily runs your business data in any web browser and creates interactive reports. 
+
+![main-qimg-5062ae939dc82e2841335c82e23efbcf](https://user-images.githubusercontent.com/33940017/39316115-0e78dd00-4981-11e8-84e9-f31a922fd7fc.gif)
 
 # What matters
 - Simple in integration 
