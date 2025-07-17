@@ -25,11 +25,10 @@ WebDataRocks supports data in CSV and JSON formats. Data size should be up to 1M
 - Integration with 3rd party charting libraries
 
 ## Get started with WebDataRocks
-1. [Download WebDataRocks](https://www.webdatarocks.com/doc/download/)
-2. [Use WebDataRocks in your project](https://www.webdatarocks.com/doc/how-to-start-online-reporting/)
+Refer to the following documentation for details on how to embed WebDataRocks in your project: [Integrating WebDataRocks](https://www.webdatarocks.com/doc/how-to-start-online-reporting/).
 
 ## Resources
-- [Live demos](https://www.webdatarocks.com/demos/javascript-pivot-grid-demo/)
+- [Live demos](https://www.webdatarocks.com/demos/pivot-table-demo/)
 - [Documentation](https://www.webdatarocks.com/doc/)
 - [Blog](https://www.webdatarocks.com/blog/)
 
