@@ -1,4 +1,5 @@
-# About WebDataRocks Free Pivot Table 
+# About WebDataRocks Free Pivot Table
+[![WebDataRocks](https://cdn.webdatarocks.com/readmes/main.png)](https://www.webdatarocks.com/)
 
 [WebDataRocks](https://www.webdatarocks.com/) is a free JavaScript pivot table component for online data visualization and analysis. This enterprise-featured tool easily creates interactive reports of your business data. With WebDataRocks, you get real-time reporting on any device you prefer (PC, tablet, mobile, etc.).
 
