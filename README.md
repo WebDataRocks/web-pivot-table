@@ -39,6 +39,10 @@ Refer to the following documentation for details on how to embed WebDataRocks in
 - [Documentation](https://www.webdatarocks.com/doc/)
 - [Blog](https://www.webdatarocks.com/blog/)
 
+## License
+
+WebDataRocks Pivot Table is distributed under the terms and conditions of the WebDataRocks End User License Agreement: https://www.webdatarocks.com/license-agreement/.
+
 ## Support
 
 For WebDataRocks-related questions, bug reports, and feature requests, please [create an issue on our GitHub](https://github.com/WebDataRocks/web-pivot-table/issues).
